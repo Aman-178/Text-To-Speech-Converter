@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#wrapper {
+    height: 100vh;
+    background-color: rgba(253, 208, 10, 0.963);
+    overflow-y: hidden;
+}
+header{
+    margin-top: 100px;
+    margin-left: 35%;
+    font-weight: bolder;
+    font-size: x-large;
+    color: rgba(225, 103, 38, 0.95);
+}
+u{
+    color: rgb(214, 153, 73);
+}
+textarea {
+    margin-left: 35%;
+    width: 560px;
+    min-height: 300px;
+    border-radius: 10px;
+    background-color: rgb(54, 34, 3);
+    padding-top: 10px; /* Adjust this value as needed */
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.click{
+    margin-left: 36%;
+    margin-top: 15px;
+    
+}
+#dropdown{
+    width: 350px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgba(212, 131, 8, 0.733);
+    cursor: pointer;
+
+}
+#Tap{
+    width: 130px;
+    height: 30px;
+    border-radius: 20px;
+    background-image:linear-gradient(green , red);
+    font-weight: bolder;
+    font-size:larger;
+    color: rgb(247, 205, 152);
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    
+
+}
+h3{
+    margin-left: 50%;
+    margin-top: 50px;
+    color: rgba(87, 49, 2, 0.886);
+    font-size: x-large;
+}
